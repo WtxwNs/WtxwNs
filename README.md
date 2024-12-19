@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WtxwNs
-- 🌱 I’m currently learning robotics and LLMs in Southeast University , school of future technology.
+- 🌱 I’m major in future robotics in Southeast University , school of future technology.
 - 📫 How to reach me : wutongxiwang@qq.com
