@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @WtxwNs
-- 👀 I’m interested in some simple tutorials to offer help .
 - 🌱 I’m currently learning robotics and LLMs in Southeast University , school of future technology.
 - 📫 How to reach me : wutongxiwang@qq.com
