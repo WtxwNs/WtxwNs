@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @WtxwNs
+- 👋 Hi, I’m Tongxi Wang. Or @WtxwNs
 - 🌱 I’m major in future robotics in Southeast University , school of future technology.
-- 📫 How to reach me : wutongxiwang@qq.com
+- 📫 How to reach me : tongxi_wang@seu.edu.cn
