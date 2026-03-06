@@ -20,3 +20,5 @@ Recently, I have been working on topics including:
 
 ## Contact
 - 📫 How to reach me : tongxi_wang@seu.edu.cn
+- Homepage: https://github.com/WtxwNs
+- Google Scholar: [(link)](https://scholar.google.com/citations?user=IJX5_8EAAAAj)
