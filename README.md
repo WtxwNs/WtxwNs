@@ -13,5 +13,5 @@ My research interests lie in AI, learning theory, large language models, and rob
 
 ## Contact
 - 📫 How to reach me : tongxi_wang@seu.edu.cn
-- Homepage: https://github.com/WtxwNs
-- Google Scholar: [(link)](https://scholar.google.com/citations?user=IJX5_8EAAAAj)
+- Homepage: https://wtxwns.github.io/
+- Google Scholar: [(link)](https://scholar.google.com/citations?user=IJX5_8EAAAAJ)
